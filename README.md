@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @powershellfish!
 - 👀 I’m interested in data analytics, Python, Raspberry Pi and Arduino projects, automation. I also love yoga and hanging out with my dog. 🐕
 - 🌱 I’m currently learning about new projects in Python and data analytics using OpenSearch.
-- 🔐 I'm also working on a cybersecurity certificate program.
+- 🎓 I recently completed the Google Cybersecurity Certificate Program.
 - 💞️ I'm looking to collaborate, especially for documentation!
 
 <!---
